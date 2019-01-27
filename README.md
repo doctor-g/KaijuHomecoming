@@ -8,9 +8,12 @@ The game was created using [Unreal Engine 4.21](https://www.unrealengine.com).
 The `ToImport` folder contains all the assets used in the project except for
 those from the UE4 Starter Content.
 
-The source code is by Paul Gestwicki and Alex Gestwicki and is licensed under [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
-The digital meeples are by Emma Mills-Rittman and Jessica Miller and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Other original art is by Alex Gestwicki and also licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The digital meeples are designed by Emma Mills-Rittman and Jessica Miller and are
+licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+The source code and other original art are by Paul Gestwicki and Alex Gestwicki
+and are licensed under
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+
 
 ## Acknowledgements
 
